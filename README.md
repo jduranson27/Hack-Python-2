@@ -1,51 +1,6 @@
-# SOCIAL OPLESK
-### 🏴‍☠️ HACKS 
+# HACK PYTHON 2
 
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
-
-```diff
-* 1) Tienes que clonar el repositorio 
-  git clone https://github.com/SocialOplesk/test_python_hack_2.git
-  
-* 2) Instalar los paquetes
-  pip install -r requirements.txt
-
-* 3) Para validar los hacks
-  pytest test_hack.py -v (ejecuta todos los test)
-  pytest test_hack.py::test_hack_1 (ejecuta un test en específico)
-  pytest test_hack.py::test_hack_3 -v (ejecuta un test en específico)
-
-  ✔ NOTA: en caso de no reconocer el comando "pytest"
-          ejecutar el pytest así: python -m pytest test_hack.py -v
-```
-<br/>
-
-#### 🎬 Clone Repo + Instalar requirements
-![](https://github.com/SocialOplesk/hack_python_2/blob/main/hack_python_2_install_gif.gif)
-
-
-<br/>
-
-|Hacks | Details | 
-|----------|---------|
-| H-1      | 3 match |
-| H-2      | 3 match |
-| H-3      | 5 match | 
-| H-4      | 3 match |
-| H-5      | 4 match |
-| H-6      | 2 match |
-| H-7      | 2 match | 
-| H-8      | 4 match |
-| H-9      | {"Foo":"Fooziman"} |
-| H-10      | [{"1":"2"},{"3","4"},{"5":"6"}] | 
-<br/> 
+### Estudiante Jean Duranson 
 
 ## 🏆 H-1
 🎬 Cómo resolver el hack y adicional ejecutar el testing, para validar el hack.
